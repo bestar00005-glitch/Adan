@@ -4,12 +4,12 @@ rex vertex Security Reports](https://github.com/jacobdjwilson/awesome-annual-sec
  [ARS3NAL](https://github.com/inflictx/Arsenal) | Offline-first, searchable arsenal for pentest & bug bounty: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists 
   [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | List of bug bounty write-up that is categorized by the bug nature 
   [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) | Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
-  [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools 
+ user [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools 
   [CVE PoC](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest 
-  [CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. 
+ id- [CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. 
   [Detection Lab](https://github.com/clong/DetectionLab) |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices 
   [Executable Packing](https://github.com/packing-box/awesome-executable-packing) | Resources about executable packing and unpacking 
-  [Forensics](https://github.com/Cugu/awesome-forensics) | List of awesome forensic analysis tools and resources 
+ mative [Forensics](https://github.com/Cugu/awesome-forensics) | List of awesome forensic analysis tools and resources 
   [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Free programming books for developers 
   [GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions 
   [Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne 
