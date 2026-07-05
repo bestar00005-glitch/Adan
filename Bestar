@@ -1,1 +1,49 @@
 
+ [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) | Cybersecurity trends, insights, and challenges from annual reports 
+  [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API 
+  [APT Notes](https://github.com/kbandla/APTnotes) | Various public documents, whitepapers and articles about APT campaigns 
+ [ARS3NAL](https://github.com/inflictx/Arsenal) | Offline-first, searchable arsenal for pentest & bug bounty: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists 
+  [Bug Bounty Reference](https://github.com/ngalongc/bug-bounty-reference) | List of bug bounty write-up that is categorized by the bug nature 
+  [Capsulecorp Pentest](https://github.com/r3dy/capsulecorp-pentest) | Vagrant+Ansible virtual network penetration testing lab. Companion to "The Art of Network Penetration Testing" by Royce Davis 
+  [Cryptography](https://github.com/sobolevn/awesome-cryptography) | Cryptography resources and tools 
+  [CVE PoC](https://github.com/trickest/cve) | List of CVE Proof of Concepts (PoCs) updated daily by Trickest 
+  [CyberChef](https://gchq.github.io/CyberChef/) | A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. 
+  [Detection Lab](https://github.com/clong/DetectionLab) |  Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices 
+  [Executable Packing](https://github.com/packing-box/awesome-executable-packing) | Resources about executable packing and unpacking 
+  [Forensics](https://github.com/Cugu/awesome-forensics) | List of awesome forensic analysis tools and resources 
+  [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Free programming books for developers 
+  [GTFOBins](https://gtfobins.github.io) | A curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions 
+  [Hacker101](https://github.com/Hacker0x01/hacker101) | A free class for web security by HackerOne 
+  [Infosec Getting Started](https://github.com/gradiuscypher/infosec_getting_started) | A collection of resources, documentation, links, etc to help people learn about Infosec 
+  [Infosec Reference](https://github.com/rmusser01/Infosec_Reference) | Information Security Reference That Doesn't Suck 
+  [IOC](https://github.com/sroberts/awesome-iocs) | Collection of sources of indicators of compromise 
+  [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) | A bunch of links related to Linux kernel fuzzing and exploitation 
+  [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Curated list of tools and resources related to the use of machine learning for cyber security 
+  [Payloads](https://github.com/foospidy/payloads) | Collection of web attack payloads 
+  [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | List of useful payloads and bypass for Web Application Security and Pentest/CTF 
+  [Pentest Wiki](https://github.com/nixawk/pentest-wiki) | A free online security knowledge library for pentesters / researchers 
+  [Probable Wordlists](https://github.com/berzerk0/Probable-Wordlists) | Wordlists sorted by probability originally created for password generation and testing 
+  [Red Team Physical Tools](https://github.com/DavidProbinsky/RedTeam-Physical-Tools) | Curated list of tools for physical security, red teaming, and tactical covert entry 
+  [Reverse Engineering](https://github.com/onethawt/reverseengineering-reading-list) | List of Reverse Engineering articles, books, and papers 
+  [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) | Collection of Radio Frequency Communication Protocol Hacktools 
+  [Security Cheatsheets](https://github.com/OWASP/CheatSheetSeries) | OWASP Cheat Sheet Series for application security 
+  [Shell](https://github.com/alebcay/awesome-shell) | List of awesome command-line frameworks, toolkits, guides and gizmos to make complete use of shell 
+  [Suricata](https://github.com/satta/awesome-suricata) | Suricata IDS/IPS and network security monitoring resources 
+  [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) | A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns 
+  [Tor](https://github.com/polycarbohydrate/awesome-tor) | Resources about the Tor network and anonymous communication 
+  [Vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose 
+  [Web Security](https://github.com/qazbnm456/awesome-web-security) | Curated list of Web Security materials and resources 
+ 
+ 
+  ## Need More ? 
+ 
+ 
+  Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security. 
+   - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub) 
+   - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub) 
+ 
+ 
+  ## Contributions 
+ 
+ 
+  Please have a look at [contributing.md](contributing.md)
